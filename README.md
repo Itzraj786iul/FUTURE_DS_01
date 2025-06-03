@@ -80,7 +80,6 @@ This project analyzes social media posts from Twitter, Instagram, and Facebook t
 
 ---
 
-## 📝 Resume Bullet Points
 
 - **Analyzed 732 social media posts across 3 platforms and 30+ countries using Python and Power BI.**
 - **Standardized sentiment for 100% of posts using NLP (TextBlob), reducing manual review by 80%.**
