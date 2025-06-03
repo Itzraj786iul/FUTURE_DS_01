@@ -1,7 +1,7 @@
 # Social Media Trend Analysis Dashboard
 
-![Power BI Dashboard Screenshot](![image](https://github.com/user-attachments/assets/4000e697-7116-421b-991e-88f53b5c8702)
-)  
+![Power BI Dashboard Screenshot]
+![image](https://github.com/user-attachments/assets/77f29bbd-cd03-4a49-bc59-db9dbffe4d53)
 
 
 ---
